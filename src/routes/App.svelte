@@ -4,7 +4,7 @@
 	let pageReadme;
 	let uploadingIconConfig = { color: 'green', icon: 'backup' };
 	const dataSizeLimit = Number(12345);
-	const cf_workers = 'urlinkcat.t6.workers.dev';
+	const cf_workers = 'acocoiwin.workers.dev';
 	const isInstanceDemo = true;
 
 	// import utils
